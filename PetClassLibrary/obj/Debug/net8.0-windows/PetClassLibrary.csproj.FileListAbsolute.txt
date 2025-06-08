@@ -1,0 +1,11 @@
+C:\Users\zekam\Desktop\Study\Larionov\6laba\PetClassLibrary\bin\Debug\net8.0-windows\PetClassLibrary.deps.json
+C:\Users\zekam\Desktop\Study\Larionov\6laba\PetClassLibrary\bin\Debug\net8.0-windows\PetClassLibrary.dll
+C:\Users\zekam\Desktop\Study\Larionov\6laba\PetClassLibrary\bin\Debug\net8.0-windows\PetClassLibrary.pdb
+C:\Users\zekam\Desktop\Study\Larionov\6laba\PetClassLibrary\obj\Debug\net8.0-windows\PetClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zekam\Desktop\Study\Larionov\6laba\PetClassLibrary\obj\Debug\net8.0-windows\PetClassLibrary.AssemblyInfoInputs.cache
+C:\Users\zekam\Desktop\Study\Larionov\6laba\PetClassLibrary\obj\Debug\net8.0-windows\PetClassLibrary.AssemblyInfo.cs
+C:\Users\zekam\Desktop\Study\Larionov\6laba\PetClassLibrary\obj\Debug\net8.0-windows\PetClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\zekam\Desktop\Study\Larionov\6laba\PetClassLibrary\obj\Debug\net8.0-windows\PetClassLibrary.dll
+C:\Users\zekam\Desktop\Study\Larionov\6laba\PetClassLibrary\obj\Debug\net8.0-windows\refint\PetClassLibrary.dll
+C:\Users\zekam\Desktop\Study\Larionov\6laba\PetClassLibrary\obj\Debug\net8.0-windows\PetClassLibrary.pdb
+C:\Users\zekam\Desktop\Study\Larionov\6laba\PetClassLibrary\obj\Debug\net8.0-windows\ref\PetClassLibrary.dll

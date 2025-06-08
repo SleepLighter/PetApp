@@ -1,0 +1,17 @@
+C:\Users\zekam\Desktop\Study\Larionov\6laba\PetApp\bin\Debug\PetApp.exe.config
+C:\Users\zekam\Desktop\Study\Larionov\6laba\PetApp\bin\Debug\PetApp.exe
+C:\Users\zekam\Desktop\Study\Larionov\6laba\PetApp\bin\Debug\PetApp.pdb
+C:\Users\zekam\Desktop\Study\Larionov\6laba\PetApp\obj\Debug\PetApp.csproj.AssemblyReference.cache
+C:\Users\zekam\Desktop\Study\Larionov\6laba\PetApp\obj\Debug\AddPetWindow.g.cs
+C:\Users\zekam\Desktop\Study\Larionov\6laba\PetApp\obj\Debug\MainWindow.g.cs
+C:\Users\zekam\Desktop\Study\Larionov\6laba\PetApp\obj\Debug\App.g.cs
+C:\Users\zekam\Desktop\Study\Larionov\6laba\PetApp\obj\Debug\PetApp_MarkupCompile.cache
+C:\Users\zekam\Desktop\Study\Larionov\6laba\PetApp\obj\Debug\PetApp_MarkupCompile.lref
+C:\Users\zekam\Desktop\Study\Larionov\6laba\PetApp\obj\Debug\AddPetWindow.baml
+C:\Users\zekam\Desktop\Study\Larionov\6laba\PetApp\obj\Debug\MainWindow.baml
+C:\Users\zekam\Desktop\Study\Larionov\6laba\PetApp\obj\Debug\PetApp.g.resources
+C:\Users\zekam\Desktop\Study\Larionov\6laba\PetApp\obj\Debug\PetApp.Properties.Resources.resources
+C:\Users\zekam\Desktop\Study\Larionov\6laba\PetApp\obj\Debug\PetApp.csproj.GenerateResource.cache
+C:\Users\zekam\Desktop\Study\Larionov\6laba\PetApp\obj\Debug\PetApp.csproj.CoreCompileInputs.cache
+C:\Users\zekam\Desktop\Study\Larionov\6laba\PetApp\obj\Debug\PetApp.exe
+C:\Users\zekam\Desktop\Study\Larionov\6laba\PetApp\obj\Debug\PetApp.pdb
